@@ -1,8 +1,8 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+  df <h1 align="left">Hey 👋 ?</h1>
 
 ###
 
-<p align="left">My name is Rakesh and I'm a Student from Parthanahalli</p>
+<p align="left">My name is Rakesh M</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning diploma in Athani<br><br>🎯 Goals : <br>🧩 Work at a reputed company like Infosys, TCS, or Wipro — or a tech startup.<br>💼 Take leadership roles (Team Lead or Project Manager).<br>🌐 Contribute to open-source projects to strengthen your profile.<br><br>💬 Ask me about : Python, AI, OS, MySql, Java<br><br>📫 How to reach me : rakeshmadannavar@gmail.com<br><br>🎲 Fun fact: I’m building my own mini computer science degree—one project at a time!</p>
+<p align="left">📚 I'm currently studying in BMSIT <br><br>🎯 Goals : <br>🧩 <br>💼 Take leadership roles (Team Lead or Project Manager).<br>🌐 Contribute to open-source projects to strengthen your profile.<br><br>💬 Ask me about : Python, AI, OS, MySql, Java<br><br>📫 How to reach me : rakeshmadannavar@gmail.com<br><br>🎲 </p>
 
 ###
 
