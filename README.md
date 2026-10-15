@@ -1,4 +1,4 @@
-  df <h1 align="left">Hey 👋 ?</h1>
+<h1 align="left">Hey 👋 ?</h1>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 I'm currently studying in BMSIT <br><br>🎯 Goals : <br>🧩 <br>💼 Take leadership roles (Team Lead or Project Manager).<br>🌐 Contribute to open-source projects to strengthen your profile.<br><br>💬 Ask me about : Python, AI, OS, MySql, Java<br><br>📫 How to reach me : rakeshmadannavar@gmail.com<br><br>🎲 </p>
+<p align="left">📚 I'm currently studying in BMSIT <br><br>🎯 Goals :  <br>💼 Take leadership roles (Team Lead or Project Manager).<br>🌐 Contribute to open-source projects to strengthen your profile.<br>💬 Ask me about : Python, AI, OS, MySql, Java<br><br>📫 How to reach me : rakeshmadannavar@gmail.com<br><br></p>
 
 ###
 
