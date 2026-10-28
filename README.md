@@ -14,7 +14,7 @@
 
 ###
 
-<h2 align="left">I skill hava</h2>
+<h2 align="left">I skill have</h2>
 
 ###
 
